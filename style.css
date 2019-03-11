@@ -1,0 +1,33 @@
+*
+{
+  padding: 0 !important;
+  margin: 0 !important;
+  display: inline-block;
+}
+
+.bloco
+{
+  background-size: 300px 300px;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+}
+
+#bloco1
+{
+  background-image: url("images/cao-1.jpg");
+}
+#bloco2
+{
+  background-image: url("images/cao-2.jpg");
+}
+#bloco3
+{
+  background-image: url("images/cao-3.jpg");
+}
+#bloco4
+{
+  background-image: url("images/cao-4.jpg");
+}
