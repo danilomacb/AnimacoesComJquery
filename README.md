@@ -1,1 +1,1 @@
-# AnimacoesComJquery
+Projeto criado para testar animacoes em jQuery com animate.
